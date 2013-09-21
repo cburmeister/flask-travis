@@ -14,7 +14,7 @@ pip install Flask-Travis
 Import and initialize:
 
 ```python
-from flask.ext.import Flask-Travis
+from flask.ext.import Travis
 
 app = Flask(__name__)
 

@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='Flask-Travis',
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/cburmeister/flask-travis',
     license='MIT',
     author='Corey Burmeister',
